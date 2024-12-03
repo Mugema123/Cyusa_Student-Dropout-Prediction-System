@@ -1,0 +1,5 @@
+Gender,ChildStatus,DistanceToSchool,BirthOrder,FinancialStatus,Residence,Transport,LightingEnergy
+Male,Orphan,5,Secondborn,Poverty,Apartment,Car,Electricity
+Female,Orphan,10,Thirdborn,Rich,Townhouse,Walking,Solar
+Male,Both parents,3,Fourthborn,Poverty,Duplex,Carpooling,Wind
+Female,Both parents,7,Fourthborn,Medium,Villa,Scooter,Solar
